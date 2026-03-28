@@ -24,7 +24,7 @@ An advanced cybersecurity project for gathering open-source intelligence — for
 ## How to Run
 
 ```bash
-py osint_tool.py
+python osint_tool.py
 ```
 
 ---
