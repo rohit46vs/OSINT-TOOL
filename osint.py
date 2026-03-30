@@ -1,6 +1,5 @@
 # ============================================
 #   DARK WEB MONITOR & OSINT TOOL
-#   Advanced Cybersecurity Project
 # ============================================
 
 import urllib.request
