@@ -8,8 +8,8 @@ An advanced cybersecurity project for gathering open-source intelligence — for
 
 ```
 
-├── osint_tool.py          # main file
-└── README_osint.md        # This file
+├── osint.py          # main file
+└── README.md        # This file
 ```
 
 ---
@@ -24,7 +24,7 @@ An advanced cybersecurity project for gathering open-source intelligence — for
 ## How to Run
 
 ```bash
-py osint_tool.py
+python osint.py
 ```
 
 ---
