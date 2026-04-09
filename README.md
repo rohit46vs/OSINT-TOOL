@@ -12,6 +12,7 @@ An advanced cybersecurity project for gathering open-source intelligence — for
 └── README.md        # This file
 ```
 
+
 ---
 
 ## Requirements
